@@ -1,7 +1,9 @@
 # Car Price Project
 
-This project predict the price of the car against the attributes of car.
+## Abstract
+This project predict the price of the car against the attributes of car using scikit-learn library of Python
 
+## Algorithm Implemented 
 The following algorithms are implemented on the dataset.
 <ul>
 	<li>Linear Regression with RMSE of 2857.69</li>
